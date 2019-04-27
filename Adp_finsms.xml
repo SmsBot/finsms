@@ -1,0 +1,915 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="Adp">sisäpuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">siiʹsǩpeälla</t>
+            <t Contlex="ADP_" pos="Po">siiʹsǩbeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">syrjäpuolta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tuäʹrespeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tuäʹresbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">seassa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">seʹst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alapuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">vuâlpeälla</t>
+            <t Contlex="ADP_" pos="Po">vuâlbeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp" stat="pref">luokse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">årra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">takapuolta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tuâǥǥpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">mââibeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tuâǥǥbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">syrjässä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tuäʹrespeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">čåårast</t>
+            <t Contlex="ADP_" pos="Adp">tuäʹresbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">čorrlest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">äärelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">peällsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alapuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">vuâlbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">lävitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">čõõđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">yli</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">pââibeälla</t>
+            <t Contlex="PR_" pos="Pr">pâʹjjel</t>
+            <t Contlex="ADV_" pos="Adv">pâʹjjlaakkânj</t>
+            <t Contlex="ADV_" pos="Adv">pâʹjjlakânj</t>
+            <t Contlex="ADP_" pos="Adp">rââst</t>
+            <t Contlex="ADV_" pos="Adv">tunbeälla</t>
+            <t Contlex="ADP_" pos="Adp">pâiʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">puolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">peäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">beäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">takapuolitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tuâǥǥpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">mââibeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tuâǥǥbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">ohitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">rääi</t>
+            <t Contlex="ADP_" pos="Adp">kuâŋŋad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">seasta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">seʹst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">rinnalla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">paaldâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">takapuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">mââibeäʹlnn</t>
+            <t Contlex="ADV_" pos="Adv">tuâǥǥpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">tuâǥǥbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">perään</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">mââibeälla</t>
+            <t Contlex="ADP_" pos="Adp">mâŋŋa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">syrjästä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">tuäʹresbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">čorrlest</t>
+            <t Contlex="ADP_" pos="Adp">čåårast</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">yläpuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">pââibeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alapuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">vuâlbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">rååʹpp-peäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">vueʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">poikki ja hanka päällä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">rââsthaaŋgâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">vieressä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">luʹnn</t>
+            <t Contlex="ADP_" pos="Po">paaldâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">asemesta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">sââʹjest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">viereen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">paʹldde</t>
+            <t Contlex="ADP_" pos="Adp">luuzz</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">takapuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-SPAT_" pos="Adv">tuâǥǥpeälla</t>
+            <t Contlex="ADP_" pos="Adp">mââibeälla</t>
+            <t Contlex="ADP_" pos="Po">tuâǥǥbeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pohjoispuolta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tââvpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tââʹvbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">paitsi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">notta</t>
+            <t Contlex="ADP_" pos="Adp">grååʹm ǥu</t>
+            <t Contlex="ADP-GOV-LOC_" pos="Adp">jeäʹrab</t>
+            <t Contlex="CC_" pos="CC">peʹce</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">etupuolta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ooudbeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">ouddpeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">õuddpeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">õõudbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pohjoispuolitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tââvpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tââʹvbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">verta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">veäʹrdd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">puolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">peäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">beäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">rååʹpp-peäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">vueʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">vailla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">väjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">ääreen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">peällsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pohjoispuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tââvpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">tââʹvbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sisäpuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">siiʹsǩpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">siiʹsǩbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">läpi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="N_REAEIQGHGH" pos="N">reäiʹǧǧ</t>
+            <t Contlex="ADP_" pos="Po">čõõđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sijalla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">sââʹjest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">lähelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ââlda</t>
+            <t Contlex="ADP_" pos="Adp">ââld</t>
+            <t Contlex="ADP_" pos="Adp">âʹldd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edellä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">ooudbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">ooudpeäʹlnn</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ouddlest</t>
+            <t Contlex="ADV_" pos="Adv">ouddpeäʹlnn</t>
+            <t Contlex="ADV_" pos="Adv">õõudâst</t>
+            <t Contlex="ADP_" pos="Adp">ooudâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">ylle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">õõl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sisältä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">seʹst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">verran</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="N_CHUAQRVV" pos="N">veärrtuäʹrvv</t>
+            <t Contlex="N_CHUAQRVV" pos="N">ǩieʹssemtuäʹrvv</t>
+            <t Contlex="ADP_" pos="Po">veeʹrd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ympäri</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">piirâs</t>
+            <t Contlex="ADP_" pos="Adp">pirr</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">eteen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ouʹdde</t>
+            <t Contlex="ADP_" pos="Adp">õuʹdde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alapuolta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">vuâlpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">vuâlbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">yläpuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">pââibeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">kohti</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">puõtt</t>
+            <t Contlex="ADP_" pos="Adp">tili</t>
+            <t Contlex="ADP_" pos="Adp">vuâstta</t>
+            <t Contlex="ADP_" pos="Adp">årra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">vierestä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">kuâŋŋ</t>
+            <t Contlex="ADV_" pos="Adv">luʹnn</t>
+            <t Contlex="ADP_" pos="Po">paaldâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sisällä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">seʹst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">etupuolitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ooudbeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">ouddpeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">õuddpeäʹl</t>
+            <t Contlex="ADP_" pos="Adp">õõudbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sijasta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">sââʹjest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sijaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">sâjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">päin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ooʹri</t>
+            <t Contlex="ADP_" pos="Adp">årra</t>
+            <t Contlex="ADP_" pos="Adp">ǥooʹri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">vieritse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">kuâŋŋ</t>
+            <t Contlex="ADP_" pos="Adp">kuâŋŋad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">päälle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">ool</t>
+            <t Contlex="ADP_" pos="Adp">õõl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">halki</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">kuvddân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pohjoispuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-SPAT_" pos="Adv">tââvpeälla</t>
+            <t Contlex="ADP_" pos="Po">tââʹvbeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alapuolitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">vuâlpeäʹl</t>
+            <t Contlex="ADP_" pos="Po">vuâlbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">puolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-SPAT_" pos="Adv">peälla</t>
+            <t Contlex="ADP_" pos="Po">beälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">yläpuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">pââibeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sisäpuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">siiʹsǩpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">siiʹsǩbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">syrjäpuolitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tuäʹrespeäʹl</t>
+            <t Contlex="ADP_" pos="Po">tuäʹresbeäʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pohjoispuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tââvpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">tââʹvbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">vierelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">paʹldde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">pitkin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_MIEQLDD" pos="Adv">mieʹldd</t>
+            <t Contlex="ADV_" pos="Adv">ǩiäʹjjrnieʹldd</t>
+            <t Contlex="ADP_" pos="Adp">kuâŋŋ</t>
+            <t Contlex="ADP_" pos="Adp">mieʹtt</t>
+            <t Contlex="ADP_" pos="Po">kuâŋŋa</t>
+            <t Contlex="ADP_" pos="Po">ǩeeʹjjmieʹldd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">avulla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">veäkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ohella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">kuâŋŋad</t>
+            <t Contlex="ADP_" pos="Adp">mieʹldd</t>
+            <t Contlex="PO_" pos="Po">lââʹssen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">edeltä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">ooudbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">ooudpeäʹlnn</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ouddlest</t>
+            <t Contlex="ADV_" pos="Adv">ouddpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">ooudâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">edelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">ooudbeälla</t>
+            <t Contlex="ADV_" pos="Adv">ouddpeälla</t>
+            <t Contlex="ADP_" pos="Adp">ouʹdde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">sekaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">seäkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">etupuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">ooudbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">ooudpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">õõudbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">takapuolelta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">mââibeäʹlnn</t>
+            <t Contlex="ADV_" pos="Adv">tuâǥǥpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Po">tuâǥǥbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">etupuolelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Po">ooudbeälla</t>
+            <t Contlex="ADP_" pos="Adp">õõudbeälla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">taaksepäin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">mââibeälla</t>
+            <t Contlex="ADV_" pos="Adv">mââiårra</t>
+            <t Contlex="ADV_" pos="Adv">mââjas</t>
+            <t Contlex="ADP_" pos="Po">mâʹŋŋla</t>
+            <t Contlex="ADV_" pos="Adv">mååust årra</t>
+            <t Contlex="ADV_" pos="Adv">põõđlõs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varrella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">kuâŋŋsest</t>
+            <t Contlex="ADP_" pos="Adp">peällsest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l> </l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">kuʹǩǩen</t>
+            <t Contlex="ADV_" pos="Adv">vuâra</t>
+            <t Contlex="ADP_" pos="Adp">årra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">alitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">alavueʹll</t>
+            <t Contlex="ADP_" pos="Po">vueʹll</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adp">etupuolella</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">ooudbeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">ooudpeäʹlnn</t>
+            <t Contlex="ADP_" pos="Adp">õõudbeäʹlnn</t>
+         </tg>
+      </mg>
+   </e>
+</r>

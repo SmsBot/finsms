@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="Pr">ylitse</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PR_" pos="Pr">pâʹjjel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">yli</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">pââibeälla</t>
+            <t Contlex="PR_" pos="Pr">pâʹjjel</t>
+            <t Contlex="ADV_" pos="Adv">pâʹjjlaakkânj</t>
+            <t Contlex="ADV_" pos="Adv">pâʹjjlakânj</t>
+            <t Contlex="ADP_" pos="Adp">rââst</t>
+            <t Contlex="ADV_" pos="Adv">tunbeälla</t>
+            <t Contlex="ADP_" pos="Adp">pâiʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">kesken</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">kõskkân</t>
+            <t Contlex="PR_" pos="Pr">kõskk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">keskellä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADP_" pos="Adp">kâskka</t>
+         </tg>
+      </mg>
+   </e>
+</r>

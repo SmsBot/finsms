@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="PROP" type="Prop">Tunturi-Lappi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PROP_AANAR" pos="Prop">Tuõddâr-Sääʹmjânnam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PROP" type="Prop">Ylä-Lappi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PROP_TOP_AANAR" pos="N" sem_type="Plc" type="Prop">Pâʹjj-Sääʹmjânnam</t>
+            <t Contlex="PROP_AANAR" pos="Prop">Pâjj-Sääʹmjânnam</t>
+            <t Contlex="PROP_AANAR" pos="Prop">Tâʹvv-Sääʹmjânnam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="PROP" type="Prop">Pohjois-Lappi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PROP_AANAR" pos="Prop">Tâʹvv-Sääʹmjânnam</t>
+         </tg>
+      </mg>
+   </e>
+</r>

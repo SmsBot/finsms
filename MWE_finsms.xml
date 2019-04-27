@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="V::V">yrittää tavoittaa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_LAUKKOOLLYD" pos="V">viõǥǥtõõllâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::V::Adv">yrittää päästä edelle</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_SHORRNED" pos="V">reeidted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N(A::N)">automaattinen tietojenkäsittely</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="AB-NO-DOT-N_" pos="N">ATR</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::A::N">vivahtaa moneen väriin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_LAUKKOOLLYD" pos="V">eeuʹn suåppõõttâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::V">yrittää napata</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_KAEQTTED" pos="V">kuõsslâʹtted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::V">yrittää itkeä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_TOBDDYD" pos="V">snorkkâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::N::Adv">vyyhdetä suopunki nopeasti</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_KHIORGGNED" pos="V">njavvled</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::Adv">väristä viluissaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_KUAESTTAD" pos="V">tuårggad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::V::Adv">yrittää päästä ohi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_SHORRNED" pos="V">reeidted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::V">yrittää saada</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="TV_SOLLEED" pos="V">vuäǯǯeed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l abbr="jne" pos="CC::Adv::Adv">ja niin edelleen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="AB-DOT-ADV_" pos="Adv" status="recommendation">dno.</t>
+            <t Contlex="CC::Adv::Adv_" abbr="dno" pos="CC::Adv::Adv">da nuʹtt ooudâs</t>
+            <t Contlex="ADV_" pos="Adv">di nuʹtt ooudâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::Adv">voida pahoin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_POOLLYD" pos="V">pannalla võõjjâd</t>
+            <t Contlex="V_" pos="V">pannvââi leeʹd</t>
+            <t Contlex="V_" pos="V">pannääʹppest leeʹd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>jne.</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="AB-DOT-ADV_" pos="Adv" status="recommendation">dno.</t>
+            <t Contlex="CC::Adv::Adv_" abbr="dno" pos="CC::Adv::Adv">da nuʹtt ooudâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V::N">alustaa taikinaa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_LAUKKOOLLYD" pos="V">rosttvoorrâd</t>
+            <t Contlex="V_LAUKKOOLLYD" pos="V">rosttvõõrrâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V:Adv">vuolla teräväksi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="V_VIIKKYD" pos="V">čookkâd</t>
+         </tg>
+      </mg>
+   </e>
+</r>

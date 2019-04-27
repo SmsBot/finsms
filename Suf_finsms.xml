@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="Pcle">-han</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">-a</t>
+            <t Contlex="PCLE_" pos="Pcle">ju</t>
+            <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">tâma</t>
+            <t Contlex="PCLE_" pos="Pcle">âma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>-värinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Suf_" pos="Suf">-eunnsaž</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>kaltainen, näköinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_NALLSHEM" pos="Suf">-nallšem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ilman</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">krååʹma</t>
+            <t Contlex="ADV_" pos="Adv">väjjaǥ</t>
+            <t Contlex="ADP_" pos="Adp">notta</t>
+            <t Contlex="Suf_" pos="Suf">-tää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>-lainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Suf_" pos="Suf">-laaǥǥan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">kuuitâǥ</t>
+            <t Contlex="PCLE_" pos="Pcle">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>-niminen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_MEERSAZH" pos="Suf">-nõmmsaž</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>-paksuinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Suf_" pos="Suf">-kâssʼsaž</t>
+         </tg>
+      </mg>
+   </e>
+</r>

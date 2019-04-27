@@ -1,0 +1,576 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="Det">seuraaja</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="N_PRSPRC-EEI" pos="N" type="NomAg">praavjeei</t>
+            <t Contlex="N_PRSPRC-VWCC-I" pos="N">pueʹtti</t>
+            <t Contlex="N_PRSPRC-VWCC-I" pos="N">puõʹtti</t>
+            <t Contlex="N_PRSPRC-EEI" pos="N" type="NomAg">viõǥǥteei</t>
+            <t Contlex="N_PRSPRC-VWCC-AI" pos="N">čuâvvai</t>
+            <t Contlex="DET_NUQBB" pos="Det">nuʹbb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">ensimmäinnen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">vuõss</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">viides</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">viiđad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">miljaardis</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">miljaardad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kumpi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">kuäbbaž</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" stat="pref" type="Rel">joka</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">jueʹǩǩ</t>
+            <t Contlex="DET_ATTR" pos="Det">juõʹǩǩ</t>
+            <t Contlex="PRON-REL_" pos="Pron" type="Rel">kååʹtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">hänen oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiiʹjjes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">muu</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_KHEEQLES" pos="Det">jeeʹres</t>
+            <t Contlex="DET_" pos="Det">jeäʹrab</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tällainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_" pos="A">näkam</t>
+            <t Contlex="A_" pos="A">näkkam</t>
+            <t Contlex="A_" pos="A">näuʹddem</t>
+            <t Contlex="A_" pos="A">näʹbddem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kuudes</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">kuuđad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">eri</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_KHEEQLES" pos="Det">jeeʹres</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" stat="pref">tuo</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-SHORTDEM_" pos="Det">tut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tämä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Pron_" pos="Pron">tät</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">se</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-SHORTDEM_" pos="Det">tõt</t>
+            <t Contlex="PRON-PERS-SG3_" pos="Pron" type="Pers">son</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">seuraava</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_NUQBB" pos="A">nuʹbb</t>
+            <t Contlex="A_PRSPRC-VWCC-AI" pos="A">čuâvvai</t>
+            <t Contlex="A_PRSPRC-VWCC-I" pos="A">pueʹtti</t>
+            <t Contlex="A_PRSPRC-VWCC-I" pos="A">puõʹtti</t>
+            <t Contlex="A_PRSPRC-EEI" pos="A">seuʹrrjeei</t>
+            <t Contlex="A-ATTR_" pos="A" type="Attr">čuâvvlõs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noin kaksi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_JEAQNNN" pos="Det">muäʹdd</t>
+            <t Contlex="PRON_" pos="Pron">muånn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">edellinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_" pos="A">oouʹdbuž</t>
+            <t Contlex="A_IS_ADJ-DER/COMP_ab" pos="A">oouʹdab</t>
+            <t Contlex="A_" pos="A">ouddlõž</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jokainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">jueʹǩǩ</t>
+            <t Contlex="DET_ATTR" pos="Det">juõʹǩǩ</t>
+            <t Contlex="PRON_MEERSAZH" pos="Pron">juâkksaž</t>
+            <t Contlex="A_MEERSAZH" pos="A">juõʹǩǩʼkaž</t>
+            <t Contlex="PRON_MEERSAZH" pos="Pron">juõʹǩǩkaž</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">neljäs</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">neelljad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">viidestoista</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">vittmlååǥǥad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ensi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_" pos="A">vuõss</t>
+            <t Contlex="A_PRSPRC-VWCC-I" pos="A">pueʹtti</t>
+            <t Contlex="A_PRSPRC-VWCC-I" pos="A">puõʹtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kymmenes</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">lååǥǥad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muutama</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_JEAQNNN" pos="Det">muäʹdd</t>
+            <t Contlex="PRON_" pos="Pron">muånn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">molemmat</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">kuhttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">moinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">nåkkam</t>
+            <t Contlex="A_" pos="A">nâʹbddem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">yhdeksäs</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">ååucad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">sinun oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiijjâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joku</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">måttam</t>
+            <t Contlex="PRON_" pos="Pron">kevätǩii-ne</t>
+            <t Contlex="PRON-INDEF_" pos="Pron">kååʹtt-ne</t>
+            <t Contlex="Pron_" pos="Pron">ǩii-ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">minkälainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_AANAR" pos="A">muʹvddem</t>
+            <t Contlex="A_NALLSHEM" pos="A">mõõnnallšem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">jokunen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">måttam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">minun oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiijjân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">heidän oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiiʹjjez</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">monesko</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ORD_" pos="Det">kââllad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kahdeksas</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">kääucad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kahdestoista</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">kuâtmlååǥǥad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">pari</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="N_PAARR" hid="Hom1" pos="N">paarr</t>
+            <t Contlex="A_JEAQNNN" pos="A">muäʹdd</t>
+            <t Contlex="PRON_" pos="Pron">muånn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">sadas</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">čuâđad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">tuhannes</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_DOHTAD" pos="Det">dohtad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">seitsemäs</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">čiiččad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">muuan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">måttam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">miljoonas</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">miljoonad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kumpikin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">kuhttu</t>
+            <t Contlex="PRON-QNT_" pos="Pron">kuäbbaž-a</t>
+            <t Contlex="DET_" pos="Det">kuõhttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sellainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">nuʹvddem</t>
+            <t Contlex="DET_AANAR" pos="Det">nåkkam</t>
+            <t Contlex="A_NALLSHEM" pos="A">tõnnallšem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">puolitoista</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">pieʹllneʹb</t>
+            <t Contlex="DET_" pos="Det">piäʹllneʹb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">millainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_" pos="Det">muʹvddem</t>
+            <t Contlex="A_" pos="A">måkam</t>
+            <t Contlex="A_" pos="A">måkkam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">meidän oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiiʹjjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">tuo tuolla</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-SHORTDEM_" pos="Det">tut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">teidän oma</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET-REFL_" pos="Det">jiiʹjjed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">tuollainen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">nuʹvddem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sama</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_" pos="A">seämma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">eräs</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_AANAR" pos="Det">måttam</t>
+            <t Contlex="A_" pos="A">måtam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toinen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="A_NUQBB" pos="A">nuʹbb</t>
+            <t Contlex="DET_KHEEQLES" pos="Det">jeeʹres</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">kolmas</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="DET_NEELLJAD" pos="Det">kuälmad</t>
+         </tg>
+      </mg>
+   </e>
+</r>

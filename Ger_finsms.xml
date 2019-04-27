@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l>lentäen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">ǩeeʹrdeel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>hiihtäen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">čuõigeeʹl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>eläessään</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">jeäʹleeʹstes</t>
+            <t Contlex="Ger_" pos="Ger">jeäʹleestes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>jakaantumaton, jakamaton</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">jueʹjjǩânai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ristimätön</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">riistǩâni</t>
+            <t Contlex="A_" pos="A">njevârna</t>
+            <t Contlex="A_" pos="A">njeʹveârna</t>
+            <t Contlex="A_NALLSHEM" pos="A">riisttem</t>
+            <t Contlex="A_NALLSHEM" pos="A">riistteʹm</t>
+            <t Contlex="A_NALLSHEM" pos="A">riistʼtem</t>
+            <t Contlex="A_NALLSHEM" pos="A">riistʼteʹm</t>
+            <t Contlex="A-ATTR_" pos="A">riistteʹmes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>kastamatta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">riistǩâni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sulamaton</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">suuddǩânai</t>
+            <t Contlex="A_CHUOSHKK" pos="A">cuõpcc</t>
+            <t Contlex="A_NALLSHEM" pos="A">suuddtem</t>
+            <t Contlex="A_NALLSHEM" pos="A">suuddteʹm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>sulamatta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">suuddǩânai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ristimättä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">riistǩâni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">syntymätön</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">šõõddǩâni</t>
+            <t Contlex="A_NALLSHEM" pos="A">šõõddtem</t>
+            <t Contlex="A_NALLSHEM" pos="A">šõõddteʹm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>juosten</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">uuʹrčeel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>kävellen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">vääʹʒʒeeʹl</t>
+            <t Contlex="Ger_" pos="Ger">vääʹʒʒeel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">näkymätön</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">kuâsttjeǩânai</t>
+            <t Contlex="A_NALLSHEM" pos="A">kuestʼtem</t>
+            <t Contlex="A_NALLSHEM" pos="A">kuestʼteʹm</t>
+            <t Contlex="A_NALLSHEM" pos="A">kuâstʼtem</t>
+            <t Contlex="A_NALLSHEM" pos="A">kuâstʼteʹm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jakaantumaton</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">juâkkjeǩânai</t>
+            <t Contlex="A_NALLSHEM" pos="A">juâkkjetem</t>
+            <t Contlex="A_NALLSHEM" pos="A">juâkkjeteʹm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>syntymättä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">šõõddǩâni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">näkemätön</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="Ger_" pos="Ger">vueiʹnǩâni</t>
+            <t Contlex="A_NALLSHEM" pos="A">vueiʹntem</t>
+            <t Contlex="A_NALLSHEM" pos="A">vueiʹnteʹm</t>
+         </tg>
+      </mg>
+   </e>
+</r>

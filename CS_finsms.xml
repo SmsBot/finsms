@@ -1,0 +1,304 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="CS">ikäänkuin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">diǥu</t>
+            <t Contlex="ADV_" pos="Adv">mâʹte</t>
+            <t Contlex="CS_" pos="CS">maʹte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">kerran</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">kujo</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">kuäʹss-ne</t>
+            <t Contlex="ADV_" pos="Adv">måtamvuâra</t>
+            <t Contlex="ADV_" pos="Adv">måtmešt</t>
+            <t Contlex="ADV_" pos="Adv">måttmešt</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ojo</t>
+            <t Contlex="ADV_" pos="Adv">ujo</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">õʹhttešt</t>
+            <t Contlex="ADV_" pos="Adv">ǥujo</t>
+            <t Contlex="CS_" pos="CS">kojo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">jotta</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">õõi</t>
+            <t Contlex="CS_" pos="CS">ǥõõi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">ellei</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">õõi ij</t>
+            <t Contlex="CS_" pos="CS">ǥõõi ij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">sillä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-TEMP_" pos="Adv">tâʹl</t>
+            <t Contlex="CS_" pos="CS">teäʹl</t>
+            <t Contlex="CS_" pos="CS">teʹl</t>
+            <t Contlex="CS_" pos="CS">tõnt</t>
+            <t Contlex="CS_" pos="CS">tõʹnt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kun</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-TEMP_" pos="Adv">ojo</t>
+            <t Contlex="CS_" pos="CS">ko</t>
+            <t Contlex="CS-TEMP_" pos="CS">kuäʹss</t>
+            <t Contlex="CS_" pos="CS">poka</t>
+            <t Contlex="CS_" pos="CS">vu</t>
+            <t Contlex="PCLE_" pos="Pcle">-ǥu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">niin kauan kuin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">koon</t>
+            <t Contlex="CS_" pos="CS">poka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">kunhan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CC_" pos="CC">leâša</t>
+            <t Contlex="CS_" pos="CS">poka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">silti</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">kuuitâǥ</t>
+            <t Contlex="ADV_" pos="Adv">leâša</t>
+            <t Contlex="ADV_" pos="Adv">leša</t>
+            <t Contlex="ADV_" pos="Adv">seâža</t>
+            <t Contlex="ADV_" pos="Adv">seša</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">silloin kun</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">grååmǥo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">kunnes</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">koon</t>
+            <t Contlex="CS_" pos="CS">poka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">koska</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">kuäʹss</t>
+            <t Contlex="CS_" pos="CS">ko</t>
+            <t Contlex="CS_" pos="CS">kojo</t>
+            <t Contlex="CS_" pos="CS">kujo</t>
+            <t Contlex="CS_" pos="CS">teäʹl</t>
+            <t Contlex="CS_" pos="CS">teʹl</t>
+            <t Contlex="CS_" pos="CS">tâʹl</t>
+            <t Contlex="CS_" pos="CS">tõnt</t>
+            <t Contlex="CS_" pos="CS">tõʹnt</t>
+            <t Contlex="CS_" pos="CS">ujo</t>
+            <t Contlex="CS_" pos="CS">ǥu</t>
+            <t Contlex="CS_" pos="CS">ǥujo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">sittenkin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">kuuitâǥ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">kuitenkin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">kuuitâǥ</t>
+            <t Contlex="ADV_" pos="Adv">seârvvna</t>
+            <t Contlex="ADV_" pos="Adv">seâža</t>
+            <t Contlex="ADV_" pos="Adv">seša</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">siksi</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">tõndiõtt</t>
+            <t Contlex="CS_" pos="CS">tõʹnt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">sillä aikaa kun</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">poka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">vaikka</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">håʹt</t>
+            <t Contlex="CS_" pos="CS">håʹt-i</t>
+            <t Contlex="CS_" pos="CS">leâša</t>
+            <t Contlex="CS_" pos="CS">leša</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">vaikkapa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">håʹt mâka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">aǥu</t>
+            <t Contlex="CS_" pos="CS">jos</t>
+            <t Contlex="CS_" pos="CS">jõs</t>
+            <t Contlex="CS_" pos="CS">ku</t>
+            <t Contlex="CS_" pos="CS">ǥu mâka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">vaikkakin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">håt-i</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">niin kuin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">nuʹtmana</t>
+            <t Contlex="CC_" pos="CC">nuʹtt-mâta</t>
+            <t Contlex="CS_" pos="CS">maʹte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">jollei</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">õõi ij</t>
+            <t Contlex="CS_" pos="CS">ǥõõi ij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">kuin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">mâʹte</t>
+            <t Contlex="CC_" pos="CC">de</t>
+            <t Contlex="CS_" pos="CS">diǥu</t>
+            <t Contlex="CS_" pos="CS">mâʹhtt</t>
+            <t Contlex="CS_" pos="CS">mâʹta</t>
+            <t Contlex="CS_" pos="CS">mäʹhtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">että</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CC_" pos="CC">de</t>
+            <t Contlex="CS_" pos="CS">što</t>
+            <t Contlex="CS_" pos="CS">ǥo</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,416 @@
+<?xml version="1.0" ?>
+<r xml="http://www.w3.org/XML/1998/namespace" xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+   <e>
+      <lg>
+         <l pos="Pcle">-pä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-i</t>
+            <t Contlex="PCLE_" pos="Pcle">-tâma</t>
+            <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-han,-hän</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">šât</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-han, -hän</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-son</t>
+            <t Contlex="PCLE_" pos="Pcle">deʹbet</t>
+            <t Contlex="PCLE_" pos="Pcle">nâčat</t>
+            <t Contlex="PCLE_" pos="Pcle">veʹt</t>
+            <t Contlex="PCLE_" pos="Pcle">õt</t>
+            <t Contlex="PCLE_" pos="Pcle">õtju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-pa, -pä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-ba</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">no sitten</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">no näʹde</t>
+            <t Contlex="PCLE_" pos="Pcle">näde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kun</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV-TEMP_" pos="Adv">ojo</t>
+            <t Contlex="CS_" pos="CS">ko</t>
+            <t Contlex="CS-TEMP_" pos="CS">kuäʹss</t>
+            <t Contlex="CS_" pos="CS">poka</t>
+            <t Contlex="CS_" pos="CS">vu</t>
+            <t Contlex="PCLE_" pos="Pcle">-ǥu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">no</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="INTERJ_" pos="Interj">na</t>
+            <t Contlex="INTERJ_" pos="Interj">nâ</t>
+            <t Contlex="CC_" pos="CC">a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-pa,-pä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">tâʹm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tahansa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">håʹt</t>
+            <t Contlex="ADV_" pos="Adv">täättas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">noin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="AB-DOT-ADV_" pos="Adv" status="recommendation">n.</t>
+            <t Contlex="ADV_" pos="Adv">-meʹt</t>
+            <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+            <t Contlex="ADV_" pos="Adv">nuʹtt-a</t>
+            <t Contlex="ADV_" pos="Adv">vot</t>
+            <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-ga</t>
+            <t Contlex="PCLE_" pos="Pcle">-ǥa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-han</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">-a</t>
+            <t Contlex="PCLE_" pos="Pcle">ju</t>
+            <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">tâma</t>
+            <t Contlex="PCLE_" pos="Pcle">âma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l back="-han" pos="Pcle">juuri</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="N_VUEAEQDDES" pos="N">vueʹddes</t>
+            <t Contlex="N_JEAQNNN" pos="N">vuäʹdd</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">eiʹdde</t>
+            <t Contlex="ADV_" pos="Adv">i</t>
+            <t Contlex="ADV_" pos="Adv">samai</t>
+            <t Contlex="ADV_" pos="Adv">sami</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">âiʹdde</t>
+            <t Contlex="PCLE_" pos="Pcle">-i</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kö</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-ko, -kö</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-go</t>
+            <t Contlex="PCLE_" pos="Pcle">-ǥo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">melkein</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">eǥšõt</t>
+            <t Contlex="ADV_" pos="Adv">kuâđđra</t>
+            <t Contlex="ADV_" pos="Adv">miâlggâd</t>
+            <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">entä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CC_" pos="CC">a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-ko</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kyllä</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="INTERJ_" pos="Interj">joo</t>
+            <t Contlex="INTERJ_" pos="Interj">kâʹl</t>
+            <t Contlex="INTERJ_" pos="Interj">naa</t>
+            <t Contlex="PCLE_" pos="Pcle">kâl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l back="-han" pos="Pcle">aivan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">aaibâs</t>
+            <t Contlex="ADV_" pos="Adv">aivv</t>
+            <t Contlex="ADV_" pos="Adv">eʹsǩe</t>
+            <t Contlex="ADV_" pos="Adv">samai</t>
+            <t Contlex="ADV_" pos="Adv">sami</t>
+            <t Contlex="ADV_" pos="Adv">čuuʹt</t>
+            <t Contlex="PCLE_" pos="Pcle">-i</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-pa</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-ka</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-ǥa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-hän</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">deʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">-a</t>
+            <t Contlex="PCLE_" pos="Pcle">-i</t>
+            <t Contlex="PCLE_" pos="Pcle">-tâma</t>
+            <t Contlex="PCLE_" pos="Pcle">ju</t>
+            <t Contlex="PCLE_" pos="Pcle">teʹbe</t>
+            <t Contlex="PCLE_" pos="Pcle">tâma</t>
+            <t Contlex="PCLE_" pos="Pcle">âma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kai</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">deʹbe</t>
+            <t Contlex="ADV_" pos="Adv">nâveârna</t>
+            <t Contlex="ADV_" pos="Adv">tâm</t>
+            <t Contlex="ADV_" pos="Adv">tâma</t>
+            <t Contlex="ADV_" pos="Adv">âma</t>
+            <t Contlex="PCLE_" pos="Pcle">šât</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kään</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">niin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">de</t>
+            <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="CS_" pos="CS">kuuitâǥ</t>
+            <t Contlex="PCLE_" pos="Pcle">ni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">-kin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-i</t>
+            <t Contlex="PCLE_" pos="Pcle">še</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">vuorostaan</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">-ǥõs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tosin</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">kâʹl</t>
+            <t Contlex="PCLE_" pos="Pcle">kâl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">suunnilleen</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">-meʹt</t>
+            <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+            <t Contlex="ADV_" pos="Adv">nuʹtt-a</t>
+            <t Contlex="ADV_" pos="Adv">âlddsin</t>
+            <t Contlex="INTERJ_" pos="Interj">nuʹt-a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">myös</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">še</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">sitten</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="ADV_" pos="Adv">de</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">teä</t>
+            <t Contlex="ADV_" pos="Adv">teʹl</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">âʹte</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">âʹtte</t>
+            <t Contlex="PCLE_" pos="Pcle">šât</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">lähes</l>
+      </lg>
+      <mg relId="0">
+         <tg xml:lang="sms">
+            <t Contlex="PCLE_" pos="Pcle">nuʹtt</t>
+            <t Contlex="ADV_" pos="Adv">âlddsin</t>
+         </tg>
+      </mg>
+   </e>
+</r>
